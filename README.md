@@ -1,2 +1,2 @@
 # mallcz
-Test of MALL.CZ webpage
+Test of MALL.CZ webpage by Ken Mok
